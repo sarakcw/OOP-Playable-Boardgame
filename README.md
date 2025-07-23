@@ -24,9 +24,6 @@ It includes support for two players, a 5x5 flexible board, and 3 God cards: Arte
 - Purchasable artifacts to gain strategic advantage
 - Artifact usage with full validation
 
-## Design Artifacts
-- `UML Class Diagram FIT3077`: UML class diagram showing system architecture
-
 # Build instructions
 These build instructions are for both Windows and Mac. As Mac does not have support for a windows style executable, the Mac build instructions end at step 3.
 ## 1. Get Ready
