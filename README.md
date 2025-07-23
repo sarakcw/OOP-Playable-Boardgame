@@ -1,4 +1,4 @@
-# Santorini Board Game - Sprint 3
+# Santorini Board Game
 
 ## Project Description
 This project implements a playable prototype of the Santorini board game using object-oriented design principles. 
@@ -9,14 +9,14 @@ It includes support for two players, a 5x5 flexible board, and 3 God cards: Arte
 - UI Framework: Java Swing
 - Coding Style Guide: Google Java Style Guide (https://google.github.io/styleguide/javaguide.html)
 
-## Key Functionalities Implemented from Sprint 2 (Group project)
+## Key Functionalities Implemented as a Group project
 - Dynamic 5x5 board setup with randomised worker and God card assignments
 - Worker movement with full rule validation 
 - Level construction with validation 
 - Turn switching logic
 - Win condition check 
 
-## New Extensions Implemented for Sprint 3(Individual Project)
+## New Extensions Implemented for Individual Project
 - Triton god card - automatic extra move when on a perimeter cell
 - Timer implementation - player automatically wins when opponent runs out of time.
 - Introduction of a buy phase
