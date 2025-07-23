@@ -2,7 +2,7 @@
 
 ## Project Description
 This project implements a playable prototype of the Santorini board game using object-oriented design principles. 
-It includes support for two players, a 5x5 flexible board, and three God cards: Artemis, Demeter and Triton.
+It includes support for two players, a 5x5 flexible board, and 3 God cards: Artemis, Demeter and Triton.
 
 ## Technologies Used
 - Programming Language: Java
